@@ -1,0 +1,65 @@
+.movie-logo {
+  width: 180px;
+  height: 52px;
+  padding-left: 20px;
+  margin-right: 10px;
+}
+.profile-pic {
+  width: 30px;
+  height: 30px;
+  border-radius: 50%;
+  margin-left: 10px;
+}
+
+nav {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+
+  opacity: 90%;
+  padding: 20px;
+}
+.profile-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding-right: 40px;
+  list-style-type: none;
+}
+.nav-link {
+  border-style: solid;
+  border-top: none;
+  border-bottom: none;
+  border-left: none;
+  border-right: none;
+  text-decoration: none;
+}
+li {
+  color: #ffffff;
+  margin-right: 10px;
+}
+
+.first-container {
+  display: flex;
+  padding-left: 20px;
+  list-style-type: none;
+  align-items: center;
+  justify-content: center;
+}
+.home {
+  width: 42px;
+  height: 26px;
+  top: 38px;
+  left: 348px;
+  color: #ffffff;
+  margin: 10px;
+}
+.popular {
+  width: 54px;
+  height: 26px;
+  top: 38px;
+  left: 414px;
+  color: #ffffff;
+  margin: 10px;
+}

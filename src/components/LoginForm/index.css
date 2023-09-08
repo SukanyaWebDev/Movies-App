@@ -1,0 +1,84 @@
+.login-page-container {
+  height: 100vh;
+  padding: 20px;
+  background-image: url('https://res.cloudinary.com/dxorhiaeo/image/upload/v1694087586/images/netfilx_1background_zlqdp4.jpg');
+}
+.form-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+.movie-logo {
+  width: 180px;
+  height: 52px;
+  padding-left: 20px;
+}
+.heading {
+  width: 78px;
+  height: 40px;
+  top: 356px;
+  left: 681px;
+  color: #ffffff;
+  text-align: center;
+  font-weight: 500;
+}
+.error-mess {
+  color: red;
+  font-size: 17px;
+  font-family: 'Roboto';
+  text-align: start;
+}
+
+form {
+  width: 456px;
+  height: 440px;
+  top: 292px;
+  left: 492px;
+  border-radius: 8px;
+  background-color: #0c0b10;
+  /* padding: 10px; */
+
+  opacity: 80%;
+
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding-top: 30px;
+}
+.label-content {
+  color: #ffffff;
+  margin-bottom: 10px;
+  font-size: 13px;
+}
+
+.input-container {
+  width: 360px;
+  height: 64px;
+  top: 428px;
+  left: 540px;
+  margin-bottom: 10px;
+}
+.user-input-filed {
+  color: #e2e8f0;
+  width: 360px;
+  height: 40px;
+  top: 24px;
+  border-radius: 1px;
+  background-color: #333333;
+  margin-top: 5px;
+  border-width: 0px;
+}
+
+button {
+  width: 360px;
+  height: 40px;
+  top: 628px;
+  left: 540px;
+  background-color: red;
+  border-radius: 10px;
+  border-width: 0px;
+  color: #ffffff;
+  margin-top: 30px;
+  font-weight: 500;
+}

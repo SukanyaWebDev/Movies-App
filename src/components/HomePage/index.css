@@ -1,0 +1,53 @@
+.top-container {
+  background-image: url('https://res.cloudinary.com/dxorhiaeo/image/upload/v1694152423/Imagesuperman_vqo8ii.jpg');
+  height: 50%;
+  width: 100%;
+  background-size: cover;
+}
+.trending-container {
+  display: flex;
+  margin-bottom: 20px;
+  background-color: #419be0;
+  padding: 40px;
+}
+
+.orgin-head {
+  color: #ffffff;
+}
+.main-container {
+  height: 150vh;
+  width: 100vw;
+  display: flex;
+  flex-direction: column;
+}
+.super-man-container {
+  padding-left: 90px;
+  padding-top: 70px;
+  padding-bottom: 70px;
+  width: 40%;
+}
+.main-page {
+  width: 100vw;
+  height: 40%;
+  display: flex;
+  flex-direction: column;
+}
+
+.super-man-heading {
+  color: #ffffff;
+  font-size: 30px;
+  /* font-family: 'Roboto'; */
+}
+.description {
+  color: #ffffff;
+  font-size: 20px;
+  /* font-family: 'Roboto'; */
+}
+.play-button {
+  font-size: 10px;
+  /* font-family: 'Roboto'; */
+  padding: 3px;
+  width: 70px;
+  color: #000000;
+  background-color: #ffffff;
+}

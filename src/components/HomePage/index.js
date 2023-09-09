@@ -55,14 +55,9 @@ class HomePage extends Component {
       return <Redirect path="/login" />
     }
 
-    // const settings = {
-    //   dots: true,
-    //   slidesToShow: 1,
-    //   dotsClass: 'slick-dots',
+   
 
-    //   //   slidesToScroll: 1,
-    // }
-
+    
     return (
       <div className="main-container">
         <div className="top-container">

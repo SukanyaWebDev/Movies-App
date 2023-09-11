@@ -7,6 +7,7 @@ const TrendingMovies = props => {
   return (
     <li className="movies-list">
       <h1>{title}</h1>
+      <h1>heelooooo</h1>
     </li>
   )
 }
